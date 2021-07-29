@@ -1,7 +1,7 @@
 ### Minhas redes sociais 
 <br>
 <a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIN" width="22px" backgroun-color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
@@ -31,5 +31,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-<hr>
-
+![github contribution grid snake animation](https://raw.githubusercontent.com/Thiagobiscoito/Thiagobiscoito/output/github-contribution-grid-snake.svg)
